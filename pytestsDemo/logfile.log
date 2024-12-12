@@ -1,0 +1,10 @@
+2024-12-11 19:05:25,746 :INFO :pytestsDemo.test_logging :Information
+2024-12-11 19:05:25,746 :WARNING :pytestsDemo.test_logging :warning
+2024-12-11 19:05:25,746 :ERROR :pytestsDemo.test_logging :error
+2024-12-11 19:05:25,746 :CRITICAL :pytestsDemo.test_logging :critical
+2024-12-11 19:08:03,919 :DEBUG :pytestsDemo.test_logging :A debug statement is executed
+2024-12-11 19:08:03,920 :INFO :pytestsDemo.test_logging :Information
+2024-12-11 19:08:03,920 :WARNING :pytestsDemo.test_logging :warning
+2024-12-11 19:08:03,920 :ERROR :pytestsDemo.test_logging :error
+2024-12-11 19:08:03,920 :CRITICAL :pytestsDemo.test_logging :critical
+2024-12-11 19:08:23,324 :CRITICAL :pytestsDemo.test_logging :critical
